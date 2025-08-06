@@ -254,5 +254,7 @@ Use Cases	Semantic search, recommendations, classification, etc.
 ```
 
 <img width="950" height="606" alt="Screenshot 2025-08-07 at 12 10 06 AM" src="https://github.com/user-attachments/assets/59263421-3947-404c-95b1-c919713de6ea" />
+<img width="978" height="584" alt="Screenshot 2025-08-07 at 12 17 29 AM" src="https://github.com/user-attachments/assets/9466a47e-0da7-462a-8344-e744381d0bc2" />
+
 
 
