@@ -37,3 +37,26 @@ Complex Features:
 <img width="385" height="401" alt="Screenshot 2025-08-06 at 3 50 36 PM" src="https://github.com/user-attachments/assets/a6ae8b7f-197c-4f77-bd3b-e41b3d48f744" />
 
 
+```
+Hence, we can't simply use features for image detection hence therefore neural networks were invented and that had given birth to deep learning.
+```
+
+<img width="1020" height="668" alt="Screenshot 2025-08-06 at 4 02 52 PM" src="https://github.com/user-attachments/assets/fcac4484-d244-43ff-a8b7-08675387d6a4" />
+
+
+<img width="916" height="318" alt="Screenshot 2025-08-06 at 4 03 32 PM" src="https://github.com/user-attachments/assets/53a18744-3cc8-4731-b910-31bf7c8a0bc4" />
+
+```
+After that came RNN
+```
+
+<img width="793" height="583" alt="Screenshot 2025-08-06 at 4 04 15 PM" src="https://github.com/user-attachments/assets/028d6948-7c37-4d49-894b-3f1b608a3f9f" />
+
+
+RNN is used for solving problems like language translation where we provide words to the network.
+
+<img width="731" height="550" alt="Screenshot 2025-08-06 at 4 12 39 PM" src="https://github.com/user-attachments/assets/1ff5185b-70e7-495e-aa3e-aa94bc1bd48d" />
+
+
+
+
