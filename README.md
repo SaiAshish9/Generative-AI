@@ -141,3 +141,6 @@ Image Models: DALL-E and Stable Diffusion
 
 <img width="575" height="362" alt="Screenshot 2025-08-06 at 7 32 20 PM" src="https://github.com/user-attachments/assets/6d5e07ee-b308-4a25-9f9e-95a89a5677fb" />
 
+<img width="828" height="492" alt="Screenshot 2025-08-06 at 7 33 38 PM" src="https://github.com/user-attachments/assets/fd73cfe0-67f3-42f5-9a88-40c51d9a9ea3" />
+
+
