@@ -186,10 +186,73 @@ Embeddings And Vector Data
 ```
 
 ```
-
+Vector data allows us to store the embeddings
 ```
 
+```
+Semantic search means not searching using the exact keyword matching. But understanding the intent of a user query.
+Using the context to perform the search.
+Semantic search internally uses the concept of embedding. Numerical representation of text.
+```
 
+```
+🔹 What Are Embeddings?
 
+Embeddings are numerical representations of complex data (like text, images, audio, etc.) in a high-dimensional vector space.
+They allow machines to understand the relationships and similarities between different pieces of data.
+Think of embeddings as turning something like a word or sentence into a list of numbers (a vector) that captures its semantic meaning.
+
+🔹 What Is Vector Data?
+
+Vector data simply refers to this list of numbers (the output of embeddings). It's usually a floating-point array, like:
+[0.13, -0.98, 0.56, ..., 0.24]  ←  (typically 128, 256, 512, or 768+ dimensions)
+
+These vectors are then used for:
+Similarity search
+Clustering
+Recommendation engines
+Anomaly detection
+Semantic search
+
+🔹 Example Use Case: Text Embeddings
+Let’s say you have two sentences:
+“I love pizza.”
+“Pizza is amazing.”
+
+After generating embeddings using a model like OpenAI’s text-embedding-3-small, their vectors might look like this:
+
+Sentence A → [0.11, -0.23, 0.99, ...]
+Sentence B → [0.12, -0.25, 1.01, ...]
+
+You can then calculate the cosine similarity between these vectors to determine that they're semantically close.
+
+🔹 Common Models to Generate Embeddings
+
+OpenAI Embedding Models (e.g., text-embedding-3-small)
+BERT / SBERT (Sentence-BERT)
+CLIP (for image and text)
+FastText, Word2Vec, GloVe (older models)
+
+🔹 Tools to Store/Search Vector Data
+Once you have embeddings, you can store them in vector databases:
+
+FAISS (Facebook AI Similarity Search)
+Pinecone
+Weaviate
+Qdrant
+Milvus
+
+These allow for efficient nearest neighbor search across millions of vectors.
+
+Summary
+
+Term	Description
+Embedding	A numerical representation of data
+Vector	The actual list of numbers (embedding result)
+Vector DB	Specialized database to store and query vectors
+Use Cases	Semantic search, recommendations, classification, etc.
+```
+
+<img width="950" height="606" alt="Screenshot 2025-08-07 at 12 10 06 AM" src="https://github.com/user-attachments/assets/59263421-3947-404c-95b1-c919713de6ea" />
 
 
