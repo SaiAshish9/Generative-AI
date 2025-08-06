@@ -277,7 +277,8 @@ Traditional RDS: MYSQL
 <img width="1253" height="579" alt="Screenshot 2025-08-07 at 12 37 33 AM" src="https://github.com/user-attachments/assets/8ed87954-c99c-48bb-b608-9ca5971aacfe" />
 <img width="1265" height="388" alt="Screenshot 2025-08-07 at 12 38 01 AM" src="https://github.com/user-attachments/assets/8e66dea9-4e3d-49c8-83ca-14142cd77d1c" />
 <img width="1049" height="624" alt="Screenshot 2025-08-07 at 12 38 33 AM" src="https://github.com/user-attachments/assets/dbbac369-ddab-4a06-9d19-03e63905d510" />
-
+<img width="729" height="551" alt="Screenshot 2025-08-07 at 12 43 00 AM" src="https://github.com/user-attachments/assets/9eb35987-f6b2-4648-932b-4c7a5c35a906" />
+<img width="943" height="672" alt="Screenshot 2025-08-07 at 12 43 22 AM" src="https://github.com/user-attachments/assets/d0c52b11-773d-4570-aa91-b79ee6107130" />
 
 ```
 
