@@ -255,6 +255,37 @@ Use Cases	Semantic search, recommendations, classification, etc.
 
 <img width="950" height="606" alt="Screenshot 2025-08-07 at 12 10 06 AM" src="https://github.com/user-attachments/assets/59263421-3947-404c-95b1-c919713de6ea" />
 <img width="978" height="584" alt="Screenshot 2025-08-07 at 12 17 29 AM" src="https://github.com/user-attachments/assets/9466a47e-0da7-462a-8344-e744381d0bc2" />
+<img width="912" height="640" alt="Screenshot 2025-08-07 at 12 29 21 AM" src="https://github.com/user-attachments/assets/20d47975-93f6-476b-95c5-52b554b022cc" />
+<img width="977" height="386" alt="Screenshot 2025-08-07 at 12 31 52 AM" src="https://github.com/user-attachments/assets/baef0c3a-978b-47f1-9dcf-d14021441392" />
+
+<img width="1029" height="624" alt="Screenshot 2025-08-07 at 12 33 20 AM" src="https://github.com/user-attachments/assets/d7681c5b-61b6-4cc9-9e44-e7e30a79303b" />
+<img width="1046" height="496" alt="Screenshot 2025-08-07 at 12 33 40 AM" src="https://github.com/user-attachments/assets/b4b4859f-d99c-4941-bb5a-dec9c0d566c5" />
+
+
+```
+Store Vectors
+```
+
+<img width="871" height="602" alt="Screenshot 2025-08-07 at 12 36 29 AM" src="https://github.com/user-attachments/assets/f468882b-6535-465a-9ef3-3aba220fbe36" />
+<img width="1295" height="599" alt="Screenshot 2025-08-07 at 12 36 49 AM" src="https://github.com/user-attachments/assets/bfd23d52-c63a-4440-9e5f-d57b779ef100" />
+
+```
+Traditional RDS: MYSQL
+```
+
+<img width="1243" height="471" alt="Screenshot 2025-08-07 at 12 37 07 AM" src="https://github.com/user-attachments/assets/562a2e2b-4ae7-4c29-ba08-cb30163b0015" />
+<img width="1253" height="579" alt="Screenshot 2025-08-07 at 12 37 33 AM" src="https://github.com/user-attachments/assets/8ed87954-c99c-48bb-b608-9ca5971aacfe" />
+<img width="1265" height="388" alt="Screenshot 2025-08-07 at 12 38 01 AM" src="https://github.com/user-attachments/assets/8e66dea9-4e3d-49c8-83ca-14142cd77d1c" />
+<img width="1049" height="624" alt="Screenshot 2025-08-07 at 12 38 33 AM" src="https://github.com/user-attachments/assets/dbbac369-ddab-4a06-9d19-03e63905d510" />
+
+
+```
+
+```
+
+```
+
+```
 
 
 
