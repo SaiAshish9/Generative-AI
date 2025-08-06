@@ -55,8 +55,18 @@ After that came RNN
 
 RNN is used for solving problems like language translation where we provide words to the network.
 
+An RNN (Recurrent Neural Network) is a type of neural network particularly well-suited for sequential data. Unlike traditional feedforward networks, RNNs have loops that allow information to persist, making them ideal for tasks involving time-series, text, audio, or any data where the order matters.
+
 <img width="731" height="550" alt="Screenshot 2025-08-06 at 4 12 39 PM" src="https://github.com/user-attachments/assets/1ff5185b-70e7-495e-aa3e-aa94bc1bd48d" />
 
+```
+In Gmail it will try to autocomplete
+```
 
+<img width="679" height="548" alt="Screenshot 2025-08-06 at 4 13 13 PM" src="https://github.com/user-attachments/assets/0cf1a3ec-66e5-49f4-9c43-304d45b973d2" />
+
+```
+
+```
 
 
