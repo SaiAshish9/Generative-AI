@@ -87,3 +87,58 @@ Language Model is an AI model that can predict the next word (or set of worcs) f
 <img width="987" height="597" alt="Screenshot 2025-08-06 at 6 03 41 PM" src="https://github.com/user-attachments/assets/45083f3c-4e53-402e-8b5c-65dd4797841d" />
 
 
+```
+This approach of giving words to neural network is called self supervised learning.
+
+We can generate these training pairs from variety of books
+```
+
+<img width="940" height="629" alt="Screenshot 2025-08-06 at 6 08 11 PM" src="https://github.com/user-attachments/assets/09c773f7-bd09-4a35-bcc9-71ad554ea591" />
+
+```
+When we feed huge amount of data and the neural network is big, we'll get large language model (LLM)
+```
+
+<img width="982" height="650" alt="Screenshot 2025-08-06 at 6 15 44 PM" src="https://github.com/user-attachments/assets/50997142-c1b2-4de4-8787-9d095d4275bd" />
+
+```
+GPT-4, the model behind chatgpt is an LLM.
+```
+
+<img width="801" height="619" alt="Screenshot 2025-08-06 at 6 17 49 PM" src="https://github.com/user-attachments/assets/a202cf7c-dbf6-442b-80e8-88afd64f825a" />
+
+<img width="1162" height="664" alt="Screenshot 2025-08-06 at 6 19 53 PM" src="https://github.com/user-attachments/assets/dc3d4ca6-d051-43eb-8875-9018a77cc568" />
+
+<img width="1030" height="660" alt="Screenshot 2025-08-06 at 6 20 21 PM" src="https://github.com/user-attachments/assets/d4b33b3f-11a3-41ac-83a9-f6b3dcc83ebe" />
+
+<img width="1201" height="655" alt="Screenshot 2025-08-06 at 6 21 13 PM" src="https://github.com/user-attachments/assets/a3aa3516-bc9a-4d1d-8260-28e5c6fac07b" />
+
+<img width="464" height="525" alt="Screenshot 2025-08-06 at 6 38 21 PM" src="https://github.com/user-attachments/assets/a6306ac5-6d66-4eb7-a516-2e29c233e00c" />
+
+```
+Google - BERT
+
+BERT (Bidirectional Encoder Representations from Transformers) is a groundbreaking language model developed by Google AI in 2018.
+It's designed to understand the context of words in a sentence more deeply than previous models, thanks to its bidirectional nature.
+
+OpenAI - GPT
+```
+
+<img width="691" height="364" alt="Screenshot 2025-08-06 at 6 42 08 PM" src="https://github.com/user-attachments/assets/019473ea-b1bb-4df5-ace0-bca3481712ad" />
+<img width="787" height="508" alt="Screenshot 2025-08-06 at 6 43 31 PM" src="https://github.com/user-attachments/assets/2635298b-7f32-4349-a53e-4ccebd778f21" />
+
+```
+Text Models: BERT (Google) and GPT (OpenAI)
+```
+
+```
+Image Models: DALL-E and Stable Diffusion
+```
+
+<img width="1100" height="650" alt="Screenshot 2025-08-06 at 6 45 58 PM" src="https://github.com/user-attachments/assets/90d9df22-c350-4e40-a0da-3ead8b20a308" />
+<img width="1232" height="657" alt="Screenshot 2025-08-06 at 6 46 27 PM" src="https://github.com/user-attachments/assets/a1d2f138-657e-4074-a78b-65263e42a578" />
+<img width="912" height="558" alt="Screenshot 2025-08-06 at 6 57 33 PM" src="https://github.com/user-attachments/assets/b752a87b-0242-4331-89e9-edd360d55517" />
+
+
+
+
