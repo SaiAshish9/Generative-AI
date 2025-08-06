@@ -73,8 +73,17 @@ It looks at the content of the email. Network will read the sentence and predict
 ```
 
 <img width="1110" height="230" alt="Screenshot 2025-08-06 at 4 16 01 PM" src="https://github.com/user-attachments/assets/d4bed52c-e45d-4cc8-85f5-e918654c761f" />
+<img width="1120" height="312" alt="Screenshot 2025-08-06 at 5 53 49 PM" src="https://github.com/user-attachments/assets/67aa20e1-cfcb-40c7-b9c7-1fa540fcc551" />
+<img width="1001" height="398" alt="Screenshot 2025-08-06 at 5 54 26 PM" src="https://github.com/user-attachments/assets/7e877651-fed1-4b34-95e2-fc515719b0ab" />
 
+```
+Reaching out has higher probability
 ```
 
 ```
+Language Model is an AI model that can predict the next word (or set of worcs) for a given sequence of words
+```
+
+<img width="987" height="597" alt="Screenshot 2025-08-06 at 6 03 41 PM" src="https://github.com/user-attachments/assets/45083f3c-4e53-402e-8b5c-65dd4797841d" />
+
 
