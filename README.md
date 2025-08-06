@@ -53,10 +53,11 @@ After that came RNN
 <img width="793" height="583" alt="Screenshot 2025-08-06 at 4 04 15 PM" src="https://github.com/user-attachments/assets/028d6948-7c37-4d49-894b-3f1b608a3f9f" />
 
 
+```
 RNN is used for solving problems like language translation where we provide words to the network.
-
-An RNN (Recurrent Neural Network) is a type of neural network particularly well-suited for sequential data. Unlike traditional feedforward networks, RNNs have loops that allow information to persist, 
-making them ideal for tasks involving time-series, text, audio, or any data where the order matters.
+An RNN (Recurrent Neural Network) is a type of neural network particularly well-suited for sequential data. Unlike traditional feedforward networks, 
+RNNs have loops that allow information to persist, making them ideal for tasks involving time-series, text, audio, or any data where the order matters.
+```
 
 <img width="731" height="550" alt="Screenshot 2025-08-06 at 4 12 39 PM" src="https://github.com/user-attachments/assets/1ff5185b-70e7-495e-aa3e-aa94bc1bd48d" />
 
