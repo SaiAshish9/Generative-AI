@@ -138,9 +138,50 @@ Image Models: DALL-E and Stable Diffusion
 <img width="1100" height="650" alt="Screenshot 2025-08-06 at 6 45 58 PM" src="https://github.com/user-attachments/assets/90d9df22-c350-4e40-a0da-3ead8b20a308" />
 <img width="1232" height="657" alt="Screenshot 2025-08-06 at 6 46 27 PM" src="https://github.com/user-attachments/assets/a1d2f138-657e-4074-a78b-65263e42a578" />
 <img width="912" height="558" alt="Screenshot 2025-08-06 at 6 57 33 PM" src="https://github.com/user-attachments/assets/b752a87b-0242-4331-89e9-edd360d55517" />
-
 <img width="575" height="362" alt="Screenshot 2025-08-06 at 7 32 20 PM" src="https://github.com/user-attachments/assets/6d5e07ee-b308-4a25-9f9e-95a89a5677fb" />
-
 <img width="828" height="492" alt="Screenshot 2025-08-06 at 7 33 38 PM" src="https://github.com/user-attachments/assets/fd73cfe0-67f3-42f5-9a88-40c51d9a9ea3" />
+<img width="980" height="547" alt="Screenshot 2025-08-06 at 7 42 09 PM" src="https://github.com/user-attachments/assets/b00a6b40-2220-4689-9e96-c383e86707a4" />
+<img width="1105" height="542" alt="Screenshot 2025-08-06 at 7 44 52 PM" src="https://github.com/user-attachments/assets/a5570143-ff35-41a1-b35f-0741e22a9f50" />
+<img width="1104" height="536" alt="Screenshot 2025-08-06 at 7 47 28 PM" src="https://github.com/user-attachments/assets/51133ab9-fc61-4a10-8e37-cf8f0bd48593" />
 
+```
+Gmail uses language model underneath.
+```
+
+```
+Parrot is predicting next word based on past conversations.
+```
+
+<img width="851" height="466" alt="Screenshot 2025-08-06 at 7 57 05 PM" src="https://github.com/user-attachments/assets/c2e8edc3-6a8f-4fbc-86e3-510be091f0ba" />
+<img width="1193" height="484" alt="Screenshot 2025-08-06 at 8 00 29 PM" src="https://github.com/user-attachments/assets/1ec51fa9-9436-4b4d-bc1b-4f17e26039f6" />
+
+```
+LLM examples PaLM2 by Google and LLaMA by Meta:
+```
+
+<img width="1203" height="422" alt="Screenshot 2025-08-06 at 8 03 28 PM" src="https://github.com/user-attachments/assets/10cc7fac-56c3-46fe-9a46-6e055e63290a" />
+
+```
+LLM uses another approach called reinforcement learning with human feedback.
+```
+
+<img width="1228" height="535" alt="Screenshot 2025-08-06 at 8 07 42 PM" src="https://github.com/user-attachments/assets/6ba41d8f-b77e-4142-9389-9149b1cb8908" />
+
+<img width="821" height="527" alt="Screenshot 2025-08-06 at 8 10 51 PM" src="https://github.com/user-attachments/assets/67c0e604-5516-4df9-8658-eb511604d4e7" />
+
+<img width="1284" height="555" alt="Screenshot 2025-08-06 at 8 11 42 PM" src="https://github.com/user-attachments/assets/c177c543-8022-4ee1-89c1-50f376757a6c" />
+
+```
+For training openAI used a similar approach called human intervention
+
+RLHF
+
+Reinforcement learning with human feedback.
+
+LLMs work purely on the data
+```
+
+```
+Embeddings And Vector Data
+```
 
