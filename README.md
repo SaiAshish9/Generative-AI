@@ -1,4 +1,4 @@
-# Generative-AI
+<img width="1083" height="623" alt="Screenshot 2025-08-07 at 11 34 46 AM" src="https://github.com/user-attachments/assets/b673c5d9-56d1-4117-b759-9cf16de594f3" /># Generative-AI
 
 ```
 AI can be classified into two categpries:
@@ -16,7 +16,6 @@ We've data and based on that we are making certain decisions:
 
 a. XRAY: A person has disease or not. 
 b. Person should be given loan or not based on credit history data.
-
 
 Evolution of GenAI:
 
@@ -311,6 +310,79 @@ Benefits of vector database:
 ```
 Retrieval Augmeneted Generation (RAG)
 ```
+
+<img width="1027" height="579" alt="Screenshot 2025-08-07 at 10 42 51 AM" src="https://github.com/user-attachments/assets/9d0114ea-7725-4b82-be9f-d6d970dba602" />
+<img width="875" height="693" alt="Screenshot 2025-08-07 at 10 45 52 AM" src="https://github.com/user-attachments/assets/434c7b7a-1e61-4ac0-8323-e0058eb0c9b3" />
+
+
+<img width="1074" height="594" alt="Screenshot 2025-08-07 at 10 46 40 AM" src="https://github.com/user-attachments/assets/0cc0b926-352d-4f3a-bd1f-ce72ac60cf2b" />
+
+```
+ChatGPT is an GenAI application which uses GPT4 as LLM.
+```
+
+<img width="1020" height="529" alt="Screenshot 2025-08-07 at 10 49 48 AM" src="https://github.com/user-attachments/assets/75ae06f2-ab0b-45ce-82cf-d8680f150be1" />
+
+```
+Uses RAG to pull the answer from MYSQL
+```
+
+<img width="1067" height="343" alt="Screenshot 2025-08-07 at 11 01 21 AM" src="https://github.com/user-attachments/assets/7fdd290c-79d3-432e-95ce-8d183a0c243b" />
+
+
+```
+LLama 2 is an open source model
+```
+
+<img width="1065" height="646" alt="Screenshot 2025-08-07 at 11 02 07 AM" src="https://github.com/user-attachments/assets/be4ce233-9ad6-4dbb-93c1-4522e5ae3827" />
+
+<img width="989" height="611" alt="Screenshot 2025-08-07 at 11 02 45 AM" src="https://github.com/user-attachments/assets/154951ce-3446-4f20-9706-529ee86fecb2" />
+
+```
+LangChain is a python framework used to build GenAI applications
+```
+
+<img width="1044" height="428" alt="Screenshot 2025-08-07 at 11 03 26 AM" src="https://github.com/user-attachments/assets/f7d0d807-c3ef-49ee-9f50-c84fc77bbe17" />
+<img width="895" height="400" alt="Screenshot 2025-08-07 at 11 06 42 AM" src="https://github.com/user-attachments/assets/65d4f847-ba0a-4c60-90f2-adfd514a0f47" />
+<img width="878" height="628" alt="Screenshot 2025-08-07 at 11 07 11 AM" src="https://github.com/user-attachments/assets/ae01fc21-b43c-4716-9a9c-f837e8cb9f2f" />
+<img width="1042" height="515" alt="Screenshot 2025-08-07 at 11 31 48 AM" src="https://github.com/user-attachments/assets/0eabd7ed-bdcc-4a2e-995f-ab3706d0920a" />
+<img width="1116" height="604" alt="Screenshot 2025-08-07 at 11 34 57 AM" src="https://github.com/user-attachments/assets/fa895094-6098-4f84-81de-90716f28ba1b" />
+<img width="1054" height="505" alt="Screenshot 2025-08-07 at 11 35 51 AM" src="https://github.com/user-attachments/assets/d9![Uploading Screenshot 2025-08-07 at 11.39.29 AM.png…]()
+d9368f-a91e-49af-9dec-706063765ea1" />
+
+<img width="1069" height="495" alt="Screenshot 2025-08-07 at 11 39 47 AM" src="https://github.com/user-attachments/assets/13a95f19-08de-4c54-8ba2-f39ea193c257" />
+<img width="1032" height="594" alt="Screenshot 2025-08-07 at 11 40 05 AM" src="https://github.com/user-attachments/assets/f692b088-aa7f-4d9b-87a9-7e4fdc106667" />
+
+```
+Calling OpenAI has an cost associated with it. For every 1000 tokens, they'll charge e.g. 0.002$. Its knowledge is limited to some prev date.
+```
+
+```
+We can't get info from Google and Wikipedia here.
+```
+
+<img width="1315" height="631" alt="Screenshot 2025-08-07 at 11 49 29 AM" src="https://github.com/user-attachments/assets/981d6398-9376-4ac2-8053-138491785809" />
+<img width="800" height="424" alt="Screenshot 2025-08-07 at 11 51 20 AM" src="https://github.com/user-attachments/assets/8b9667d7-1024-436c-bb54-75acf79498f8" />
+<img width="1083" height="450" alt="Screenshot 2025-08-07 at 11 51 49 AM" src="https://github.com/user-attachments/assets/8d8c56b8-6dd1-4a4d-823b-3e31a145f02c" />
+<img width="1251" height="601" alt="Screenshot 2025-08-07 at 11 52 25 AM" src="https://github.com/user-attachments/assets/d262f075-df9b-48a0-93b6-dba69fa36016" />
+<img width="1212" height="603" alt="Screenshot 2025-08-07 at 11 53 00 AM" src="https://github.com/user-attachments/assets/9df7b27d-f737-46ad-9c4b-7d7efeed67bf" />
+
+
+```
+Create an account on openAI and get API key and run on jupiter notebook
+```
+
+```
+
+```
+
+```
+
+```
+
+
+
+
 
 
 
