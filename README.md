@@ -372,17 +372,21 @@ We can't get info from Google and Wikipedia here.
 Create an account on openAI and get API key and run on jupiter notebook
 ```
 
-```
+<img width="1087" height="873" alt="Screenshot 2025-08-07 at 12 36 25 PM" src="https://github.com/user-attachments/assets/3b0c8fd7-82f9-4593-8a1b-6bc7f073dcfb" />
 
-```
-
-```
 
 ```
+We get 5$ free credit,
+```
 
+<img width="956" height="259" alt="Screenshot 2025-08-07 at 1 00 05 PM" src="https://github.com/user-attachments/assets/7a2ccf0a-8fbc-4f66-84fc-4a91d75b620b" />
+<img width="1174" height="217" alt="Screenshot 2025-08-07 at 1 00 26 PM" src="https://github.com/user-attachments/assets/6af00fd9-a19f-49a3-89e2-911c65142228" />
+<img width="1327" height="487" alt="Screenshot 2025-08-07 at 1 01 00 PM" src="https://github.com/user-attachments/assets/e8b51da7-0cdb-4ed2-ab5c-d6a2e64557c1" />
+<img width="932" height="281" alt="Screenshot 2025-08-07 at 1 05 09 PM" src="https://github.com/user-attachments/assets/15e709d2-eca1-4145-9858-67b56d0b9935" />
 
+<img width="721" height="287" alt="Screenshot 2025-08-07 at 1 17 53 PM" src="https://github.com/user-attachments/assets/49b73a95-a04b-488e-a50d-9be63757d74b" />
 
-
+<img width="1016" height="538" alt="Screenshot 2025-08-07 at 1 20 31 PM" src="https://github.com/user-attachments/assets/1863d62a-5b76-4206-80a4-b373a794caf1" />
 
 
 
