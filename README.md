@@ -477,4 +477,9 @@ Data Ingestion System
 Langchain
 ```
 
+<img width="986" height="331" alt="Screenshot 2025-08-07 at 9 41 10 PM" src="https://github.com/user-attachments/assets/f00ed23b-d75f-44b9-a39d-51b32c207dfc" />
+<img width="1011" height="592" alt="Screenshot 2025-08-07 at 9 41 50 PM" src="https://github.com/user-attachments/assets/347bb338-dcf5-4d96-b27a-2279bed8fc83" />
+
+
+
 
