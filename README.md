@@ -347,9 +347,7 @@ LangChain is a python framework used to build GenAI applications
 <img width="878" height="628" alt="Screenshot 2025-08-07 at 11 07 11 AM" src="https://github.com/user-attachments/assets/ae01fc21-b43c-4716-9a9c-f837e8cb9f2f" />
 <img width="1042" height="515" alt="Screenshot 2025-08-07 at 11 31 48 AM" src="https://github.com/user-attachments/assets/0eabd7ed-bdcc-4a2e-995f-ab3706d0920a" />
 <img width="1116" height="604" alt="Screenshot 2025-08-07 at 11 34 57 AM" src="https://github.com/user-attachments/assets/fa895094-6098-4f84-81de-90716f28ba1b" />
-<img width="1054" height="505" alt="Screenshot 2025-08-07 at 11 35 51 AM" src="https://github.com/user-attachments/assets/d9![Uploading Screenshot 2025-08-07 at 11.39.29 AM.png…]()
-d9368f-a91e-49af-9dec-706063765ea1" />
-
+<img width="1054" height="505" alt="Screenshot 2025-08-07 at 11 35 51 AM" src="https://github.com/user-attachments/assets/d9368f-a91e-49af-9dec-706063765ea1" />
 <img width="1069" height="495" alt="Screenshot 2025-08-07 at 11 39 47 AM" src="https://github.com/user-attachments/assets/13a95f19-08de-4c54-8ba2-f39ea193c257" />
 <img width="1032" height="594" alt="Screenshot 2025-08-07 at 11 40 05 AM" src="https://github.com/user-attachments/assets/f692b088-aa7f-4d9b-87a9-7e4fdc106667" />
 
@@ -383,10 +381,64 @@ We get 5$ free credit,
 <img width="1174" height="217" alt="Screenshot 2025-08-07 at 1 00 26 PM" src="https://github.com/user-attachments/assets/6af00fd9-a19f-49a3-89e2-911c65142228" />
 <img width="1327" height="487" alt="Screenshot 2025-08-07 at 1 01 00 PM" src="https://github.com/user-attachments/assets/e8b51da7-0cdb-4ed2-ab5c-d6a2e64557c1" />
 <img width="932" height="281" alt="Screenshot 2025-08-07 at 1 05 09 PM" src="https://github.com/user-attachments/assets/15e709d2-eca1-4145-9858-67b56d0b9935" />
-
 <img width="721" height="287" alt="Screenshot 2025-08-07 at 1 17 53 PM" src="https://github.com/user-attachments/assets/49b73a95-a04b-488e-a50d-9be63757d74b" />
-
 <img width="1016" height="538" alt="Screenshot 2025-08-07 at 1 20 31 PM" src="https://github.com/user-attachments/assets/1863d62a-5b76-4206-80a4-b373a794caf1" />
+
+
+```
+Agents
+```
+
+```
+It's a powerful concept in Langchain.
+```
+
+<img width="1394" height="462" alt="Screenshot 2025-08-07 at 4 02 38 PM" src="https://github.com/user-attachments/assets/4710f0c2-8acd-45f0-8f22-0d97b957901d" />
+<img width="847" height="574" alt="Screenshot 2025-08-07 at 4 10 58 PM" src="https://github.com/user-attachments/assets/89d409a1-c2df-4095-baf3-b712262cd0b0" />
+<img width="785" height="495" alt="Screenshot 2025-08-07 at 4 11 16 PM" src="https://github.com/user-attachments/assets/e7139203-5701-465e-afa5-3006ebc178f7" />
+<img width="1410" height="507" alt="Screenshot 2025-08-07 at 4 17 22 PM" src="https://github.com/user-attachments/assets/5884cc38-fe96-4ccf-af47-ad3cbe9323f5" />
+
+
+```
+It has reasoning capability.
+```
+
+<img width="1401" height="544" alt="Screenshot 2025-08-07 at 4 19 38 PM" src="https://github.com/user-attachments/assets/fe404e68-38b0-4246-902a-8686f6c68201" />
+<img width="1372" height="754" alt="Screenshot 2025-08-07 at 4 20 17 PM" src="https://github.com/user-attachments/assets/1f661944-56f5-4554-9854-3f7acbf5141a" />
+<img width="1399" height="721" alt="Screenshot 2025-08-07 at 4 27 36 PM" src="https://github.com/user-attachments/assets/655e577a-bdf7-4574-9856-dd59593a3d1a" />
+
+
+```
+🧠 What Are Agents in LLMs?
+Agents in the context of LLMs (Large Language Models) are systems or programs that use an LLM as the core reasoning engine, but go a step further by:
+
+1. Planning tasks
+2. Interacting with tools, APIs, or environments
+3. Maintaining memory or state
+4. Autonomously deciding what to do next
+
+They make LLMs interactive, autonomous, and goal-oriented.
+
+🔄 Analogy:
+Think of an LLM as the brain, and an agent as the robot that uses that brain to act in the real world.
+
+⚙️ Common Frameworks Using Agents:
+LangChain Agents
+
+Choose a tool/function to call based on input and history
+Example: Search → Read → Summarize
+AutoGPT / BabyAGI
+Goal-driven agents that recursively break down tasks
+Can use web, files, or APIs to act autonomously
+OpenAI Function Calling (with Agents)
+Combines GPT models + tools (like calculators, file readers, etc.)
+```
+
+
+
+
+
+
 
 
 
