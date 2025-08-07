@@ -41,8 +41,6 @@ Hence, we can't simply use features for image detection hence therefore neural n
 ```
 
 <img width="1020" height="668" alt="Screenshot 2025-08-06 at 4 02 52 PM" src="https://github.com/user-attachments/assets/fcac4484-d244-43ff-a8b7-08675387d6a4" />
-
-
 <img width="916" height="318" alt="Screenshot 2025-08-06 at 4 03 32 PM" src="https://github.com/user-attachments/assets/53a18744-3cc8-4731-b910-31bf7c8a0bc4" />
 
 ```
@@ -105,13 +103,9 @@ GPT-4, the model behind chatgpt is an LLM.
 ```
 
 <img width="801" height="619" alt="Screenshot 2025-08-06 at 6 17 49 PM" src="https://github.com/user-attachments/assets/a202cf7c-dbf6-442b-80e8-88afd64f825a" />
-
 <img width="1162" height="664" alt="Screenshot 2025-08-06 at 6 19 53 PM" src="https://github.com/user-attachments/assets/dc3d4ca6-d051-43eb-8875-9018a77cc568" />
-
 <img width="1030" height="660" alt="Screenshot 2025-08-06 at 6 20 21 PM" src="https://github.com/user-attachments/assets/d4b33b3f-11a3-41ac-83a9-f6b3dcc83ebe" />
-
 <img width="1201" height="655" alt="Screenshot 2025-08-06 at 6 21 13 PM" src="https://github.com/user-attachments/assets/a3aa3516-bc9a-4d1d-8260-28e5c6fac07b" />
-
 <img width="464" height="525" alt="Screenshot 2025-08-06 at 6 38 21 PM" src="https://github.com/user-attachments/assets/a6306ac5-6d66-4eb7-a516-2e29c233e00c" />
 
 ```
@@ -165,9 +159,7 @@ LLM uses another approach called reinforcement learning with human feedback.
 ```
 
 <img width="1228" height="535" alt="Screenshot 2025-08-06 at 8 07 42 PM" src="https://github.com/user-attachments/assets/6ba41d8f-b77e-4142-9389-9149b1cb8908" />
-
 <img width="821" height="527" alt="Screenshot 2025-08-06 at 8 10 51 PM" src="https://github.com/user-attachments/assets/67c0e604-5516-4df9-8658-eb511604d4e7" />
-
 <img width="1284" height="555" alt="Screenshot 2025-08-06 at 8 11 42 PM" src="https://github.com/user-attachments/assets/c177c543-8022-4ee1-89c1-50f376757a6c" />
 
 ```
@@ -256,7 +248,6 @@ Use Cases	Semantic search, recommendations, classification, etc.
 <img width="978" height="584" alt="Screenshot 2025-08-07 at 12 17 29 AM" src="https://github.com/user-attachments/assets/9466a47e-0da7-462a-8344-e744381d0bc2" />
 <img width="912" height="640" alt="Screenshot 2025-08-07 at 12 29 21 AM" src="https://github.com/user-attachments/assets/20d47975-93f6-476b-95c5-52b554b022cc" />
 <img width="977" height="386" alt="Screenshot 2025-08-07 at 12 31 52 AM" src="https://github.com/user-attachments/assets/baef0c3a-978b-47f1-9dcf-d14021441392" />
-
 <img width="1029" height="624" alt="Screenshot 2025-08-07 at 12 33 20 AM" src="https://github.com/user-attachments/assets/d7681c5b-61b6-4cc9-9e44-e7e30a79303b" />
 <img width="1046" height="496" alt="Screenshot 2025-08-07 at 12 33 40 AM" src="https://github.com/user-attachments/assets/b4b4859f-d99c-4941-bb5a-dec9c0d566c5" />
 
@@ -313,8 +304,6 @@ Retrieval Augmeneted Generation (RAG)
 
 <img width="1027" height="579" alt="Screenshot 2025-08-07 at 10 42 51 AM" src="https://github.com/user-attachments/assets/9d0114ea-7725-4b82-be9f-d6d970dba602" />
 <img width="875" height="693" alt="Screenshot 2025-08-07 at 10 45 52 AM" src="https://github.com/user-attachments/assets/434c7b7a-1e61-4ac0-8323-e0058eb0c9b3" />
-
-
 <img width="1074" height="594" alt="Screenshot 2025-08-07 at 10 46 40 AM" src="https://github.com/user-attachments/assets/0cc0b926-352d-4f3a-bd1f-ce72ac60cf2b" />
 
 ```
@@ -335,7 +324,6 @@ LLama 2 is an open source model
 ```
 
 <img width="1065" height="646" alt="Screenshot 2025-08-07 at 11 02 07 AM" src="https://github.com/user-attachments/assets/be4ce233-9ad6-4dbb-93c1-4522e5ae3827" />
-
 <img width="989" height="611" alt="Screenshot 2025-08-07 at 11 02 45 AM" src="https://github.com/user-attachments/assets/154951ce-3446-4f20-9706-529ee86fecb2" />
 
 ```
@@ -470,7 +458,6 @@ Data Ingestion System
 
 <img width="1285" height="620" alt="Screenshot 2025-08-07 at 8 10 10 PM" src="https://github.com/user-attachments/assets/20065082-f467-4f47-b73e-f0ee3aa4c7f5" />
 <img width="767" height="627" alt="Screenshot 2025-08-07 at 8 13 43 PM" src="https://github.com/user-attachments/assets/30afaeae-7575-4975-b9ea-c19c84148146" />
-
 <img width="1130" height="657" alt="Screenshot 2025-08-07 at 8 44 34 PM" src="https://github.com/user-attachments/assets/b02b694a-6bbe-47c8-a4a7-fee23065320b" />
 
 ```
