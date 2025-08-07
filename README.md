@@ -409,9 +409,10 @@ It has reasoning capability.
 
 
 ```
-🧠 What Are Agents in LLMs?
-Agents in the context of LLMs (Large Language Models) are systems or programs that use an LLM as the core reasoning engine, but go a step further by:
 
+🧠 What Are Agents in LLMs?
+
+Agents in the context of LLMs (Large Language Models) are systems or programs that use an LLM as the core reasoning engine, but go a step further by:
 1. Planning tasks
 2. Interacting with tools, APIs, or environments
 3. Maintaining memory or state
@@ -420,25 +421,58 @@ Agents in the context of LLMs (Large Language Models) are systems or programs th
 They make LLMs interactive, autonomous, and goal-oriented.
 
 🔄 Analogy:
+
 Think of an LLM as the brain, and an agent as the robot that uses that brain to act in the real world.
 
 ⚙️ Common Frameworks Using Agents:
+
 LangChain Agents
 
 Choose a tool/function to call based on input and history
+
 Example: Search → Read → Summarize
-AutoGPT / BabyAGI
-Goal-driven agents that recursively break down tasks
-Can use web, files, or APIs to act autonomously
-OpenAI Function Calling (with Agents)
-Combines GPT models + tools (like calculators, file readers, etc.)
+1. AutoGPT / BabyAGI
+2. Goal-driven agents that recursively break down tasks
+3. Can use web, files, or APIs to act autonomously
+4. OpenAI Function Calling (with Agents)
+5. Combines GPT models + tools (like calculators, file readers, etc.)
 ```
 
+```
 
+```
 
+<img width="850" height="209" alt="Screenshot 2025-08-07 at 6 30 42 PM" src="https://github.com/user-attachments/assets/264f402b-6a73-4728-9fae-d61ec1c50eb6" />
 
+```
+Serp API is Google Search API.
+```
 
+<img width="898" height="235" alt="Screenshot 2025-08-07 at 6 54 05 PM" src="https://github.com/user-attachments/assets/85dbd6d0-655f-4f5b-98c3-36946075739a" />
+<img width="886" height="339" alt="Screenshot 2025-08-07 at 6 54 36 PM" src="https://github.com/user-attachments/assets/0801317e-7d5b-44d6-b13d-c01c6eab42e5" />
+<img width="922" height="500" alt="Screenshot 2025-08-07 at 7 03 23 PM" src="https://github.com/user-attachments/assets/2e87e503-1a6d-4606-b96e-d424fc1014ac" />
+<img width="939" height="522" alt="Screenshot 2025-08-07 at 7 06 12 PM" src="https://github.com/user-attachments/assets/e5adf344-2c3e-4b91-b376-c9611dd84f6d" />
+<img width="1217" height="633" alt="Screenshot 2025-08-07 at 7 17 27 PM" src="https://github.com/user-attachments/assets/fa8d5a47-8751-461a-a46c-86990a0e523f" />
+<img width="293" height="602" alt="Screenshot 2025-08-07 at 7 18 13 PM" src="https://github.com/user-attachments/assets/9cab50b5-23db-4c80-a3d8-cfa8525db512" />
+<img width="1009" height="619" alt="Screenshot 2025-08-07 at 7 18 47 PM" src="https://github.com/user-attachments/assets/ab58c5c0-9d6e-41e9-b343-4d6149f49e3e" />
+<img width="1009" height="619" alt="Screenshot 2025-08-07 at 7 18 47 PM" src="https://github.com/user-attachments/assets/7bc0daca-0dbc-4e5e-a663-f38cf6c21e2b" />
+<img width="993" height="565" alt="Screenshot 2025-08-07 at 7 26 41 PM" src="https://github.com/user-attachments/assets/de4b9d26-16f1-4a53-b5b7-e5f3c89228f8" />
+<img width="1253" height="654" alt="Screenshot 2025-08-07 at 7 29 07 PM" src="https://github.com/user-attachments/assets/24dcb995-d81b-4280-b73d-545366f6b705" />
+<img width="887" height="567" alt="Screenshot 2025-08-07 at 7 32 07 PM" src="https://github.com/user-attachments/assets/bf0a151a-7b51-42ff-8d99-abe6ea150154" />
+<img width="1299" height="644" alt="Screenshot 2025-08-07 at 7 57 08 PM" src="https://github.com/user-attachments/assets/63cf5474-baeb-4bef-8725-47cb50114b33" />
 
+```
+TextLoader
+UnstructuredURLLoader
+```
 
+<img width="1285" height="620" alt="Screenshot 2025-08-07 at 8 10 10 PM" src="https://github.com/user-attachments/assets/20065082-f467-4f47-b73e-f0ee3aa4c7f5" />
+<img width="767" height="627" alt="Screenshot 2025-08-07 at 8 13 43 PM" src="https://github.com/user-attachments/assets/30afaeae-7575-4975-b9ea-c19c84148146" />
+
+<img width="1130" height="657" alt="Screenshot 2025-08-07 at 8 44 34 PM" src="https://github.com/user-attachments/assets/b02b694a-6bbe-47c8-a4a7-fee23065320b" />
+
+```
+Langchain
+```
 
 
