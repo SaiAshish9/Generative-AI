@@ -481,5 +481,15 @@ Langchain
 <img width="1011" height="592" alt="Screenshot 2025-08-07 at 9 41 50 PM" src="https://github.com/user-attachments/assets/347bb338-dcf5-4d96-b27a-2279bed8fc83" />
 
 
+```
+SQL database chain.
+```
+
+<img width="909" height="893" alt="Screenshot 2025-08-07 at 9 55 05 PM" src="https://github.com/user-attachments/assets/7b61a4c5-011a-40db-ab04-21e9da6fb3b5" />
+<img width="891" height="523" alt="Screenshot 2025-08-07 at 9 57 58 PM" src="https://github.com/user-attachments/assets/df3e2017-8b08-4080-8841-d6ce61a8c560" />
+<img width="685" height="365" alt="Screenshot 2025-08-07 at 9 59 16 PM" src="https://github.com/user-attachments/assets/dd21320f-7d3b-465d-8520-26f9da78782d" />
+
+
+
 
 
