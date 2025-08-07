@@ -281,12 +281,32 @@ Traditional RDS: MYSQL
 <img width="943" height="672" alt="Screenshot 2025-08-07 at 12 43 22 AM" src="https://github.com/user-attachments/assets/d0c52b11-773d-4570-aa91-b79ee6107130" />
 
 ```
-
+Database index helps you search things faster.
 ```
 
 ```
 
 ```
+
+<img width="1005" height="487" alt="Screenshot 2025-08-07 at 10 10 09 AM" src="https://github.com/user-attachments/assets/0e939158-aa4e-48f4-836a-c8209d2a5f85" />
+<img width="997" height="471" alt="Screenshot 2025-08-07 at 10 16 08 AM" src="https://github.com/user-attachments/assets/7247633e-95f4-49b5-ba4d-d7af57451531" />
+
+```
+Hashing function allows us to only match in the desired bucket and not all the buckets. This is known as locality sensitive hashing. There are more search techniques.
+```
+https://www.pinecone.io/learn/vector-database/
+
+<img width="722" height="502" alt="Screenshot 2025-08-07 at 10 16 58 AM" src="https://github.com/user-attachments/assets/185e91db-41a8-4397-88c9-795e0901ae7e" />
+
+
+```
+Benefits of vector database:
+
+1. Fast Search
+2. Optimized storage
+```
+
+<img width="927" height="436" alt="Screenshot 2025-08-07 at 10 20 00 AM" src="https://github.com/user-attachments/assets/b93fb5f9-1783-4f25-baa8-ca7d7b48cb05" />
 
 
 
