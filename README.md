@@ -308,5 +308,9 @@ Benefits of vector database:
 
 <img width="927" height="436" alt="Screenshot 2025-08-07 at 10 20 00 AM" src="https://github.com/user-attachments/assets/b93fb5f9-1783-4f25-baa8-ca7d7b48cb05" />
 
+```
+Retrieval Augmeneted Generation (RAG)
+```
+
 
 
